@@ -1,0 +1,22 @@
+{
+  "name": "automationpractice",
+  "version": "0.0.1",
+  "description": "Testing AutomationPractice website for Zone",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "selenium"
+  ],
+  "author": "Sam",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "mocha": "^5.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
