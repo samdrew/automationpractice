@@ -8,7 +8,7 @@ Requirements:
 
 - npm
 - Firefox
-- Gekko webdriver
+- Gecko webdriver
 
 ## Files
 
@@ -18,3 +18,11 @@ incomplete.
 
 *linear.js* - is a series of basic tests, running against the automationpractice.com website using Selenium, to provide 
 a happy-path example of the website. 
+
+## TODO
+
+- [ ] Assert dress colour
+- [ ] Change authentication to generate user as part of checkout
+- [ ] After test close Firefox
+- [ ] Extend scenario model to include page actions/state transitions
+- [ ] Add backend in scenario to support webdriver 
